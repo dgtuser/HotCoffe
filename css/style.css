@@ -707,7 +707,7 @@ footer {
     padding-top: 3px;
 }
 .container3 {
-    grid-template-rows: repeat(1,322px);
+    grid-template-rows: repeat(1,360px);
     max-height: 0px;
     margin-left: 39px;
     grid-gap: 77px 12px;
