@@ -630,66 +630,67 @@ footer {
         font-size: 9px;
          }
     .head_firsttext h2{
-        margin-left: 30px;
-        font-size: 15px;
+        margin-left: 21px;
+        font-size: 14px;
     }
     .q {
         font-size: 20px;
         font-weight: 700;
         padding-top: 58px;
-        margin-left: 68px;
+        margin-left: 51px;
+
         max-width: 180px;
         line-height: 33px;
     }
     .coffe_ {
-        margin-top: -12px;
-        margin-right: 80px;
+        margin-top: -6px;
+        margin-right: 82px;
         /* position: absolute; */
-        background-size: 10%;
-        margin-left: 2px;
-        width: 10%;
+        background-size: 36%;
+        margin-left: 0px;
+        width: 16%;
     }
     .section_main h2 {
         font-size: 14px;
-        margin-left: 68px;
-        line-height: 45px;
+        margin-left: 51px;
+        line-height: 36px;
     }
     
     .section_main .container{
-        background-position: 235px 38px;
+        background-position: 216px 50px;
         background-size: 46%;
         min-height: 220px;
     }
 .container2 h4{
-    margin-left: 170px;
+    margin-left: 137px;
     font-size: 10px;
 }
 .section_main2 .container2 {
-    background-position: 238px 0px;
-    background-size: 54%;
+    background-position: 201px 0px;
+    background-size: 63%;
     min-height: 120px;
-    max-width: 413px;
+    max-width: 359px;
     margin-left: 35px;
     }
 
 .q1{
-    font-size: 15px;
-    margin-left: 30px;
+    font-size: 13px;
+    margin-left: 12px;
     padding-top: 10px;
     
 }
 .container2 h2{
     line-height: 18px;
-    margin-left: 31px;
+    margin-left: 12px;;
     margin-top: 7px;
-    max-width: 200px;
+    max-width: 178px;
     font-size: 9px;
     
 }
 .container2 h3 {
     font-size: 9px;
     margin-top: 5px;
-    margin-left: 31px;
+    margin-left: 12px;
     max-height: 1px;
 }
 .first h2 {
@@ -706,29 +707,29 @@ footer {
     padding-top: 3px;
 }
 .container3 {
-    grid-template-rows: repeat(1,286px);
+    grid-template-rows: repeat(1,322px);
     max-height: 0px;
     margin-left: 39px;
-    grid-gap: 60px 12px;
+    grid-gap: 77px 12px;
     margin-right: 38px;
 }
 .section_main4 .container4{
     margin-left: 35px;
-    max-width: 423px;
-    background-position: 190px -23px;
-    background-size: 55%;
-    min-height: 198px;
+    max-width: 359px;
+    background-position: 180px -23px;
+    background-size: 61%;
+    min-height: 186px;
 }
 .container4 h2 {
     max-width: 167px;
     margin-top: 1px;
-    margin-left: 14px;
+    margin-left: 11px;
     font-size: 11px;
     font-weight: 400;
 }
 .container4 h4{
     margin-top: -11px;
-    margin-left: 122px;
+    margin-left: 119px;
     font-size: 10px;
     line-height: 0px;
     max-width: 500px;
@@ -736,14 +737,16 @@ footer {
 }
 .footer_firsttext h2{
     margin-left: 30px;
-    font-size: 15px;
+    font-size: 12px;
+
+    
 }
 .What {
     color: #000000;
     font-size: 14px;
     font-weight: 700;
-    padding-top: 15px;
-    margin-left: 14px;
+    padding-top: 6px;
+    margin-left: 11px;
     line-height: 25px;
     max-width: 197px;
 }
@@ -752,12 +755,14 @@ footer {
     font-weight: 700;
     margin-right: 25px;
     padding-top: -7px;
+    font-size: 10px;
+
 }
 .container4 h3 {
     font-weight: 400;
     font-size: 10px;
     line-height: 20px;
-    margin-left: 14px;
+    margin-left: 11px;
     margin-top: -3px;
     max-width: 320px;
 
@@ -765,6 +770,14 @@ footer {
 footer {
     margin-top: 20px;
 } 
-
+.button img {
+    transform: translate(-1px, 4px);
+    width: 13px;
+}
+.footer_container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 12px;
+}
 
 }
